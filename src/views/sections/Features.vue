@@ -35,24 +35,24 @@
     data: () => ({
       cards: [
         {
-          icon: 'mdi-keyboard-outline',
-          title: 'Trendy Design',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          icon: 'mdi-open-in-app',
+          title: 'Access Halopet',
+          text: 'Akses aplikasi Halopet melalui platform website maupun mobile app.',
         },
         {
-          icon: 'mdi-camera-outline',
-          title: 'Photography',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          icon: 'mdi-book-open-outline',
+          title: 'Book for Your Pet Hotel',
+          text: 'Pesan hotel untuk hewan kesayanganmu sesuai dengan keinginanmu di Halopet.',
         },
         {
-          icon: 'mdi-pencil-outline',
-          title: 'Brand Making',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          icon: 'mdi-cash-usd-outline',
+          title: 'Payment',
+          text: 'Bayar tagihan melalui jalur pembayaran yang tersedia. Tentu saja pembayaran di Halopet sudah terjamin dan pastinya aman.',
         },
         {
-          icon: 'mdi-puzzle-outline',
-          title: '24/7 Support',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          icon: 'mdi-check-circle-outline',
+          title: 'Done',
+          text: 'Jika sudah melakukan pembayaran, kamu dapat meminta penyedia jasa penitipan hewan untuk menjemput hewan peliharaanmu. Kemudian kamu dapat memantau kondisi hewan peliharaanmu melalui aplikasi Halopet. ',
         },
       ],
     }),

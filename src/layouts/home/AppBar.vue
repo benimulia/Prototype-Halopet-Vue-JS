@@ -64,7 +64,8 @@
         'Home',
         'About',
         'Contact',
-        'Pro',
+        // 'Pro',
+        'Login'
       ],
     }),
   }

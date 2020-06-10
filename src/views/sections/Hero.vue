@@ -133,7 +133,7 @@
                         </v-select>
                      </v-col>
                      <v-col cols="12" sm="12" md="12">
-                         <v-btn class="blue--text" color="#ffcc00" dark large block>Search</v-btn>
+                         <v-btn to="/pet-hotel" class="blue--text" color="#ffcc00" dark large block>Search</v-btn>
                      </v-col>
                   </v-row>
                 </v-container>

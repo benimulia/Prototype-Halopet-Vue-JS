@@ -6,19 +6,15 @@
   import LoadSections from '@/mixins/load-sections'
 
   export default {
-    name: 'About',
+    name: 'Hotel',
 
-    metaInfo: { title: 'About Us' },
+    metaInfo: { title: 'Pet-Hotel' },
 
     extends: View,
 
     mixins: [
       LoadSections([
-        'hero-alt',
-        'about-our-product',
-        'theme-features',
-        'affiliates',
-        'newsletter',
+        'pet-hotel-list',
         'info',
       ]),
     ],
@@ -26,7 +22,7 @@
     props: {
       id: {
         type: String,
-        default: 'about',
+        default: 'hotel',
       },
     },
   }

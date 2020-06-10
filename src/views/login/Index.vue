@@ -6,19 +6,15 @@
   import LoadSections from '@/mixins/load-sections'
 
   export default {
-    name: 'About',
+    name: 'Login',
 
-    metaInfo: { title: 'About Us' },
+    metaInfo: { title: 'Login' },
 
     extends: View,
 
     mixins: [
       LoadSections([
-        'hero-alt',
-        'about-our-product',
-        'theme-features',
-        'affiliates',
-        'newsletter',
+        'login-page',
         'info',
       ]),
     ],
@@ -26,7 +22,7 @@
     props: {
       id: {
         type: String,
-        default: 'about',
+        default: 'login',
       },
     },
   }
