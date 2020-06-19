@@ -173,7 +173,8 @@
 
     methods: {
         clickTest(){
-        alert('WORK!')
+          this.$router.push('pet-hotel-detail')
+
         }
     },
 

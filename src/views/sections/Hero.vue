@@ -106,7 +106,7 @@
                             ></v-text-field>
                           </template>
                           <v-date-picker
-                            v-model="date"
+                            v-model="date2"
                             @input="menu2 = false"
                             min="2020-06-04">
                           </v-date-picker>
@@ -133,7 +133,7 @@
                         </v-select>
                      </v-col>
                      <v-col cols="12" sm="12" md="12">
-                         <v-btn to="/pet-hotel" class="blue--text" color="#ffcc00" dark large block>Search</v-btn>
+                         <v-btn to="/pet-hotel" light color="#ffcc00" large block>Search</v-btn>
                      </v-col>
                   </v-row>
                 </v-container>
