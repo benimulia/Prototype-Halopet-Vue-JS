@@ -18,16 +18,10 @@
       />
 
       <base-body>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo pariatur quidem, quis modi iure nihil commodi suscipit, corporis dicta adipisci, voluptatum quia cupiditate. Nulla minus voluptatum nostrum deleniti, asperiores facere.
+        Halopet merupakan suatu usaha bisnis berbasis teknologi yang menyediakan wadah atau media untuk mempertemukan orang yang bersedia merawat hewan peliharaan (profesional maupun pecinta) dengan pemilik hewan yang akan menitipkan hewan peliharaannya.
       </base-body>
 
-      <base-btn
-        class="mb-12"
-        color="white"
-        outlined
-      >
-        More Info
-      </base-btn>
+
     </div>
   </v-theme-provider>
 </template>
@@ -51,12 +45,12 @@
         {
           icon: 'mdi-cellphone',
           title: 'Phone',
-          text: '(0274) 123 456<br>(0274) 789 012',
+          text: '088216152324',
         },
         {
           icon: 'mdi-email',
           title: 'Email',
-          text: 'cs@halopet.com<br>beni@halopet.com',
+          text: 'beni.mulia@si.ukdw.ac.id <br> nikolaus.wijaya@si.ukdw.ac.id',
         },
       ],
     }),

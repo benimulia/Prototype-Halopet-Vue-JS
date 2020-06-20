@@ -53,12 +53,12 @@
         {
           icon: 'mdi-cellphone',
           title: 'Phone',
-          text: '(0274) 123 456<br>(0274) 789 012',
+          text: '088216152324',
         },
         {
           icon: 'mdi-email',
           title: 'Email',
-          text: 'cs@halopet.com<br>beni@halopet.com',
+          text: 'beni.mulia@si.ukdw.ac.id <br> nikolaus.wijaya@si.ukdw.ac.id',
         },
       ],
     }),

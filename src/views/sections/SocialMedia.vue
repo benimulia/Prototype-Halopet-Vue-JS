@@ -6,23 +6,23 @@
       space="56"
     >
       <base-icon class="mb-8">
-        mdi-twitter
+        mdi-instagram
       </base-icon>
 
       <base-section-heading
         color="transparent"
         title="Social Media"
       >
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi aspernatur recusandae aut repudiandae illo error obcaecati dolores voluptate, tempore.
+      Anda dapat melakukan kontak dengan kami melalui media sosial/website kami
       </base-section-heading>
 
       <a
         class="d-inline-block mb-8"
-        href="http://halopet.com"
+        href="https://halopet.fti.ukdw.ac.id/"
         style="text-decoration: none;"
         target="_blank"
       >
-        http://halopet.com
+        https://halopet.fti.ukdw.ac.id/
       </a>
 
       <div class="py-4" />
@@ -30,7 +30,7 @@
       <v-btn
         class="font-weight-bold"
         color="white"
-        href="https://twitter.com/halopet"
+        href="https://www.instagram.com/siukdw/"
         light
         min-width="168"
         target="_blank"

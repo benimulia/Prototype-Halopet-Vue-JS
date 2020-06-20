@@ -11,7 +11,7 @@
           cols="12"
           md="6"
         >
-          <div class="d-flex flex-wrap justify-md-start justify-center justify-md-none">
+          <!-- <div class="d-flex flex-wrap justify-md-start justify-center justify-md-none">
             <template v-for="(s, i) in social">
               <a
                 :key="s"
@@ -29,7 +29,7 @@
                 <v-divider vertical />
               </v-responsive>
             </template>
-          </div>
+          </div> -->
         </v-col>
 
         <v-col
@@ -37,7 +37,7 @@
           cols="12"
           md="6"
         >
-          Copyright &copy; 2020 Halopet
+          Copyright &copy; 2020 Halopet - Sistem Informasi UKDW
         </v-col>
       </v-row>
     </v-container>
